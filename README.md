@@ -18,6 +18,32 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
+#### USE CASE DIAGRAM
+![image](https://github.com/GitPreethiHub/Lab-3-Railway-Reservation/assets/119475585/d5f8faf9-485d-4ded-9d6d-cae6902eaa66)
+
+
+#### SEQUENCE DIAGRAM
+![image](https://github.com/GitPreethiHub/Lab-3-Railway-Reservation/assets/119475585/ef44cc90-48ca-47c5-974e-a0aa7a6b7f10)
+
+
+#### STATE CHART DIAGRAM
+![image](https://github.com/GitPreethiHub/Lab-3-Railway-Reservation/assets/119475585/656ee033-a588-489b-b3fc-f795bce92db8)
+
+
+#### ACTIVITY DIAGRAM
+![image](https://github.com/GitPreethiHub/Lab-3-Railway-Reservation/assets/119475585/6c270055-dc23-4632-9484-98cc5c65efcd)
+
+
+#### CLASS DIAGRAM
+![image](https://github.com/GitPreethiHub/Lab-3-Railway-Reservation/assets/119475585/ea587435-208e-45ef-b147-a053236c4f91)
+
+
+#### COMMUNICATION DIAGRAM
+![image](https://github.com/GitPreethiHub/Lab-3-Railway-Reservation/assets/119475585/c8f0f947-43d6-45c2-bc00-2dfd581efeef)
+
+
+#### PACKAGE DIAGRAM
+![image](https://github.com/GitPreethiHub/Lab-3-Railway-Reservation/assets/119475585/72aef1bb-c31f-4d87-9782-58cc16df55b2)
 
 
 
